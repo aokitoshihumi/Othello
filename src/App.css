@@ -18,6 +18,32 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.imgstyle {
+  width: 800px;
+  height: 600px;
+  z-index: 0;
+}
+
+.boardindex {
+  z-index: 50;
+}
+
+.boardstyle {
+  margin-bottom: 15px;
+}
+
+.boardstyles {
+  margin-right: 10px;
+}
+
+.whitestyles {
+  background-color: white;
+}
+
+.blackstyles {
+  background-color: black;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
