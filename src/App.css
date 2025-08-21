@@ -37,10 +37,12 @@
 }
 
 .whitestyles {
+  margin-right: 10px;
   background-color: white;
 }
 
 .blackstyles {
+  margin-right: 10px;
   background-color: black;
 }
 
